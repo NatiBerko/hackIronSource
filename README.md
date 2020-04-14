@@ -1,7 +1,6 @@
 This repositry contain code for hacking ironSource web mini game
 
 Link for the game:
-
 https://company.ironsrc.com/build-your-way-game/
 
 A Full Review of the process can be found in here:
